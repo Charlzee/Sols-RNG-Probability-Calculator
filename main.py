@@ -1,0 +1,3 @@
+import decimal
+
+print("Hi")
